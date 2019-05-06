@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Tarefa1</string>
+    <string name="nome">Nome</string>
+    <string name="email">Email</string>
+    <string name="enviar">Enviar</string>
+    <string name="endereco">Endereço</string>
+    <string name="profiss_o">Profissão</string>
+</resources>
