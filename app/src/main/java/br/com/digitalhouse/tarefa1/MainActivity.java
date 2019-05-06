@@ -51,7 +51,7 @@ public class MainActivity extends AppCompatActivity {
                 }
                 if(profissao.isEmpty()){
                     mProfissao.setError("A profissão não pode ser vazia");
-                    return;;
+                    return;
                 }else{
                     mProfissao.setError(null);
                 }
